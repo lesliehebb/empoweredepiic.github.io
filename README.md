@@ -1,2 +1,2 @@
-# gemsjwst.github.io
-GEMS JWST website
+# empoweredepiic.github.io
+EmpowerEd EPIIC website
